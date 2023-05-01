@@ -1,5 +1,4 @@
-{
-  "chefs": [
+ [
     {
       "id": 1,
       "chefName": "Amina Ahmed",
@@ -307,7 +306,6 @@
           "rating": 4.5
         }
       ]
-    },
-
+    }
   ]
-}
+
