@@ -16,129 +16,135 @@
             "1 teaspoon turmeric powder",
             "1 teaspoon red chili powder",
             "1 tablespoon mustard oil",
-            "1 onion, sliced",
-            "2 green chilies, slit",
-            "1 cup water",
-            "Salt to taste"
+            "1 onion, sliced"
           ],
           "cooking_method": "1. Marinate the fish pieces with turmeric and salt. \n2. Heat mustard oil in a pan and fry the fish pieces until golden brown. Keep aside. \n3. In the same oil, add the sliced onion and fry until golden brown. \n4. Add mustard paste, turmeric powder, red chili powder, and salt. Mix well. \n5. Add water and bring to a boil. \n6. Add the fried fish and slit green chilies. Cover and simmer for 10-12 minutes. \n7. Serve hot with steamed rice.",
           "rating": 4.8
         },
         {
           "name": "Bhuna Khichuri (Spicy rice and lentils)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/khituri.jpg",
           "ingredients": [
             "1 cup rice",
             "1/2 cup yellow lentils",
             "1 onion, chopped",
             "1 tablespoon ginger-garlic paste",
             "1 tomato, chopped",
-            "2 green chilies, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
-            "3 tablespoons oil",
-            "Salt to taste"
+            "2 green chilies, chopped"
           ],
           "cooking_method": "1. Wash the rice and lentils together and soak for 30 minutes. \n2. Heat oil in a pan and add chopped onion. Fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add chopped tomato and green chilies. Fry until the tomato is soft. \n5. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n6. Add the soaked rice and lentils. Stir well. \n7. Add enough water to cover the rice and lentils. Bring to a boil. \n8. Lower the heat and cover the pan. Cook until the rice and lentils are soft and the water has evaporated. \n9. Serve hot with a side of fried eggplant or potato.",
           "rating": 4.5
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "chefName": "Rahim Uddin",
-      "photo": "https://www.linkpicture.com/q/chef-1.png",
-      "chefDetail": "Rahim Uddin is a passionate Bangladeshi chef with over 10 years of experience in creating delicious traditional dishes. He specializes in using local ingredients and spices to bring out the authentic flavors of Bangladeshi cuisine.",
-      "experience": "10 years",
-      "likes": 245,
-      "recipes_list": [
+        },
         {
           "name": "Biryani",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/biriany.jpg",
           "ingredients": [
             "2 cups basmati rice",
             "1 lb chicken or lamb, cut into small pieces",
             "1 onion, chopped",
             "1 tablespoon ginger-garlic paste",
             "1 tomato, chopped",
-            "2 green chilies, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
-            "3 tablespoons oil",
-            "2 bay leaves",
-            "4-5 cardamom pods",
-            "4-5 cloves",
-            "1 cinnamon stick",
-            "2 cups water",
-            "Salt to taste"
+            "2 green chilies, chopped"
           ],
           "cooking_method": "1. Wash the rice and soak for 30 minutes. \n2. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n3. Add chopped onion and fry until golden brown. \n4. Add ginger-garlic paste and fry for a minute. \n5. Add chopped tomato and green chilies. Fry until the tomato is soft. \n6. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n7. Add the chicken or lamb pieces and fry until golden brown. \n8. Add water and bring to a boil. \n9. Add the soaked rice and stir well. \n10. Cover the pan and simmer for 10-15 minutes, or until the rice is cooked and the water has evaporated. \n11. Serve hot with raita or salad.",
           "rating": 4.6
-        },
+        }
+
+      ]
+    },
+    {
+      "id": 2,
+      "chefName": "Rahim Uddin",
+      "photo": "https://www.linkpicture.com/q/asdff.jpg",
+      "chefDetail": "Rahim Uddin is a passionate Bangladeshi chef with over 10 years of experience in creating delicious traditional dishes. He specializes in using local ingredients and spices to bring out the authentic flavors of Bangladeshi cuisine.",
+      "experience": "10 years",
+      "likes": 245,
+      "recipes_list": [
         {
-          "name": "Chingri Malai Curry (Shrimp in coconut milk curry)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "name": "Roshogollar-Payesh (Shrimp in coconut milk curry)",
+          "recipe_img":"https://www.linkpicture.com/q/Roshogollar-Payesh.jpg",
           "ingredients": [
             "1 lb medium shrimp, deveined and cleaned",
             "1 onion, chopped",
             "1 tablespoon ginger-garlic paste",
             "1/2 cup coconut milk",
             "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
-            "3 tablespoons oil",
-            "2 bay leaves",
-            "4-5 cardamom pods",
-            "4-5 cloves",
-            "1 cinnamon stick",
-            "1 tablespoon sugar",
-            "Salt to taste"
+            "1 teaspoon coriander powder"
           ],
           "cooking_method": "1. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n2. Add chopped onion and fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
           "rating": 4.5
+        },
+        {
+          "name": "Rasmalai (Shrimp in coconut milk curry)",
+          "recipe_img":"https://www.linkpicture.com/q/misty.jpg",
+          "ingredients": [
+            "1 lb medium shrimp and cleaned",
+            "1 onion, chopped",
+            "1 tablespoon ginger-garlic paste",
+            "1/2 cup coconut milk",
+            "1 teaspoon cumin powder"
+          ],
+          "cooking_method": "1. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n2. Add chopped onion and fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
+          "rating": 4.5
+        },
+        {
+          "name": "Mishti Doi (Sweet yogurt)",
+          "recipe_img":"https://www.linkpicture.com/q/doy.jpg",
+          "ingredients": [
+            "1 liter full-fat milk",
+            "1/2 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "1/4 teaspoon saffron",
+            "2 tablespoons chopped pistachios"
+          ],
+          "cooking_method": "1. Boil the milk in a heavy-bottomed pan. \n2. Add sugar and stir until dissolved. \n3. Lower the heat and simmer for 30-40 minutes until the milk reduces to half. \n4. Add cardamom powder and saffron. Mix well. \n5. Pour the mixture into earthen pots or glass bowls. \n6. Let it cool to room temperature. \n7. Cover the pots/bowls with a lid or plastic wrap. Keep in a warm place for 6-8 hours or until set. \n8. Refrigerate for a few hours. \n9. Garnish with chopped pistachios and almonds before serving.",
+          "rating": 4.7
         }
       ]
     },
     {
       "id": 3,
       "chefName": "Fatema Begum",
-      "photo": "https://www.linkpicture.com/q/chef-1.png",
+      "photo": "https://www.linkpicture.com/q/sdkfj.png",
       "chefDetail": "Fatema Begum is a passionate chef who specializes in creating delectable Bangladeshi desserts. With over 10 years of experience in the culinary world, she has mastered the art of creating desserts that are not only delicious but also visually appealing.",
       "experience": "10 years",
       "likes": 230,
       "recipes_list": [
         {
           "name": "Rasmalai (Cottage cheese dumplings in sweetened milk)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/misty.jpg",
           "ingredients": [
             "1 liter full-fat milk",
             "1 tablespoon vinegar",
             "1/2 cup sugar",
             "4 cups water",
-            "2 cups heavy cream",
-            "1/2 teaspoon cardamom powder",
-            "1/4 teaspoon saffron",
-            "2 tablespoons chopped pistachios",
-            "2 tablespoons chopped almonds"
+            "2 cups heavy cream"
           ],
           "cooking_method": "1. Boil the milk in a heavy-bottomed pan. \n2. Add vinegar and stir until the milk curdles. \n3. Strain the curdled milk through a muslin cloth. Press out the excess water and hang for 30 minutes. \n4. Knead the cottage cheese until smooth. Make small balls and flatten slightly. \n5. Boil water and sugar in a large pot. Add the cottage cheese balls and simmer for 15-20 minutes. \n6. In another pan, heat the cream and cardamom powder. Add saffron and stir well. \n7. Add the sugar syrup and cottage cheese balls to the cream mixture. Cook for another 10 minutes. \n8. Garnish with chopped pistachios and almonds. \n9. Serve chilled.",
           "rating": 4.9
         },
         {
           "name": "Mishti Doi (Sweet yogurt)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/doy.jpg",
           "ingredients": [
             "1 liter full-fat milk",
             "1/2 cup sugar",
             "1/4 teaspoon cardamom powder",
             "1/4 teaspoon saffron",
-            "2 tablespoons chopped pistachios",
-            "2 tablespoons chopped almonds"
+            "2 tablespoons chopped pistachios"
+          ],
+          "cooking_method": "1. Boil the milk in a heavy-bottomed pan. \n2. Add sugar and stir until dissolved. \n3. Lower the heat and simmer for 30-40 minutes until the milk reduces to half. \n4. Add cardamom powder and saffron. Mix well. \n5. Pour the mixture into earthen pots or glass bowls. \n6. Let it cool to room temperature. \n7. Cover the pots/bowls with a lid or plastic wrap. Keep in a warm place for 6-8 hours or until set. \n8. Refrigerate for a few hours. \n9. Garnish with chopped pistachios and almonds before serving.",
+          "rating": 4.7
+        },
+        {
+          "name": "Zilapi (Sweet yogurt)",
+          "recipe_img":"https://www.linkpicture.com/q/Roshogollar-Payesh.jpg",
+          "ingredients": [
+            "1 liter full-fat milk",
+            "1/2 cup sugar",
+            "1/4 teaspoon cardamom powder",
+            "1/4 teaspoon saffron",
+            "2 tablespoons chopped pistachios"
           ],
           "cooking_method": "1. Boil the milk in a heavy-bottomed pan. \n2. Add sugar and stir until dissolved. \n3. Lower the heat and simmer for 30-40 minutes until the milk reduces to half. \n4. Add cardamom powder and saffron. Mix well. \n5. Pour the mixture into earthen pots or glass bowls. \n6. Let it cool to room temperature. \n7. Cover the pots/bowls with a lid or plastic wrap. Keep in a warm place for 6-8 hours or until set. \n8. Refrigerate for a few hours. \n9. Garnish with chopped pistachios and almonds before serving.",
           "rating": 4.7
@@ -147,9 +153,9 @@
     },
     {
       "id": 4,
-      "chefName": "Amina Khan",
-      "photo": "https://www.linkpicture.com/q/chef-1.png",
-      "chefDetail": "Amina Khan is a talented Bangladeshi chef who loves to create unique and flavorful dishes using local ingredients. With a background in nutrition and dietetics, she believes in cooking with fresh and healthy ingredients that are good for both the body and the soul.",
+      "chefName": "Amirul Islam",
+      "photo": "https://www.linkpicture.com/q/5_816.jpg",
+      "chefDetail": "Amirul Islam is a talented Bangladeshi chef who loves to create unique and flavorful dishes using local ingredients. With a background in nutrition and dietetics, she believes in cooking with fresh and healthy ingredients that are good for both the body and the soul.",
       "experience": "12 years",
       "likes": 180,
       "recipes_list": [
@@ -163,74 +169,58 @@
             "1 tablespoon garlic paste",
             "2 green chillies, chopped",
             "1 onion, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chilli powder",
-            "2 ripe tomatoes, chopped",
-            "1/2 teaspoon garam masala powder",
-            "3 tablespoons vegetable oil",
-            "Salt to taste"
+            "1 teaspoon cumin powder"
           ],
           "cooking_method": "1. Boil the fish and chana dal in a pot of water until cooked. \n2. Drain the water and let it cool. Remove the bones and mash the fish and chana dal. \n3. Add ginger paste, garlic paste, green chillies and salt. Mix well. \n4. Shape the mixture into small balls. \n5. Heat oil in a pan. Fry the fish balls until golden brown. Remove and keep aside. \n6. In the same pan, add onion and sauté until translucent. \n7. Add cumin powder, coriander powder, turmeric powder and red chilli powder. Mix well. \n8. Add tomatoes and salt. Cook until the tomatoes are soft and mushy. \n9. Add water and bring to a boil. \n10. Add the fish balls and simmer for 10-15 minutes. \n11. Add garam masala powder and mix well. \n12. Serve hot with steamed rice.",
           "rating": 4.8
         },
         {
           "name": "Bhuna Khichuri (Spiced lentil and rice stew)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/khituri.jpg",
           "ingredients": [
             "1 cup basmati rice",
             "1/2 cup red lentils",
             "1 onion, chopped",
             "1 tablespoon ginger paste",
-            "1 tablespoon garlic paste",
-            "2 green chillies, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chilli powder",
-            "3-4 cardamom pods",
-            "3-4 cloves",
-            "1 cinnamon stick",
-            "2 bay leaves",
-            "3 tablespoons ghee",
-            "4 cups water",
-            "Salt to taste"
+            "1 onion, chopped"
           ],
           "cooking_method": "1. Wash the rice and lentils and soak in water for 30 minutes. \n2. Heat ghee in a pan. Add onion and sauté until golden brown. \n3. Add ginger paste, garlic paste, green chillies and salt. Mix well. \n4. Add cumin powder, cori",
           "rating": 4.7
+        },
+        {
+          "name": "Biryani",
+          "recipe_img":"https://www.linkpicture.com/q/biriany.jpg",
+          "ingredients": [
+            "2 cups basmati rice",
+            "1 lb chicken or lamb",
+            "1 onion, chopped",
+            "1 tablespoon ginger-garlic paste",
+            "1 tomato, chopped",
+            "2 green chilies, chopped"
+          ],
+          "cooking_method": "1. Wash the rice and soak for 30 minutes. \n2. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n3. Add chopped onion and fry until golden brown. \n4. Add ginger-garlic paste and fry for a minute. \n5. Add chopped tomato and green chilies. Fry until the tomato is soft. \n6. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n7. Add the chicken or lamb pieces and fry until golden brown. \n8. Add water and bring to a boil. \n9. Add the soaked rice and stir well. \n10. Cover the pan and simmer for 10-15 minutes, or until the rice is cooked and the water has evaporated. \n11. Serve hot with raita or salad.",
+          "rating": 4.6
         }
       ]
     },
     {
       "id": 5,
       "chefName": "Abdul Latif",
-      "photo": "https://www.linkpicture.com/q/chef-1.png",
+      "photo": "https://www.linkpicture.com/q/4_996.jpg",
       "chefDetail": "Abdul Latif is a passionate Bangladeshi chef with over 15 years of experience in creating delicious traditional dishes. He specializes in using local ingredients and spices to bring out the authentic flavors of Bangladeshi cuisine.",
       "experience": "15 years",
       "likes": 190,
       "recipes_list": [
         {
           "name": "Biryani",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/biriany.jpg",
           "ingredients": [
             "2 cups basmati rice",
-            "1 lb chicken or lamb, cut into small pieces",
+            "1 lb chicken or lamb",
             "1 onion, chopped",
             "1 tablespoon ginger-garlic paste",
             "1 tomato, chopped",
-            "2 green chilies, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
-            "3 tablespoons oil",
-            "2 bay leaves",
-            "4-5 cardamom pods",
-            "4-5 cloves",
-            "1 cinnamon stick",
-            "2 cups water",
-            "Salt to taste"
+            "2 green chilies, chopped"
           ],
           "cooking_method": "1. Wash the rice and soak for 30 minutes. \n2. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n3. Add chopped onion and fry until golden brown. \n4. Add ginger-garlic paste and fry for a minute. \n5. Add chopped tomato and green chilies. Fry until the tomato is soft. \n6. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n7. Add the chicken or lamb pieces and fry until golden brown. \n8. Add water and bring to a boil. \n9. Add the soaked rice and stir well. \n10. Cover the pan and simmer for 10-15 minutes, or until the rice is cooked and the water has evaporated. \n11. Serve hot with raita or salad.",
           "rating": 4.6
@@ -239,31 +229,35 @@
           "name": "Chingri Malai Curry (Shrimp in coconut milk curry)",
           "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
           "ingredients": [
-            "1 lb medium shrimp, deveined and cleaned",
+            "1 lb deveined and cleaned",
             "1 onion, chopped",
-            "1 tablespoon ginger-garlic paste",
+            "1 tablespoon paste",
             "1/2 cup coconut milk",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
-            "3 tablespoons oil",
-            "2 bay leaves",
-            "4-5 cardamom pods",
-            "4-5 cloves",
-            "1 cinnamon stick",
-            "1 tablespoon sugar",
-            "Salt to taste"
+            "1 teaspoon cumin powder"
           ],
           "cooking_method": "1. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n2. Add chopped onion and fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
           "rating": 4.0
+        },
+        {
+          "name": "Bhuna Khichuri (Spicy rice and lentils)",
+          "recipe_img":"https://www.linkpicture.com/q/khituri.jpg",
+          "ingredients": [
+            "1 cup rice",
+            "1/2 cup yellow lentils",
+            "1 onion, chopped",
+            "1 tomato, chopped",
+            "3 tablespoons oil",
+            "Salt to taste"
+          ],
+          "cooking_method": "1. Wash the rice and lentils together and soak for 30 minutes. \n2. Heat oil in a pan and add chopped onion. Fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add chopped tomato and green chilies. Fry until the tomato is soft. \n5. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n6. Add the soaked rice and lentils. Stir well. \n7. Add enough water to cover the rice and lentils. Bring to a boil. \n8. Lower the heat and cover the pan. Cook until the rice and lentils are soft and the water has evaporated. \n9. Serve hot with a side of fried eggplant or potato.",
+          "rating": 4.5
         }
       ]
     },
     {
       "id": 6,
       "chefName": "Ruhul Amin",
-      "photo": "https://www.linkpicture.com/q/chef-1.png",
+      "photo": "https://www.linkpicture.com/q/2_1365.png",
       "chefDetail": "Ruhul Amin is a renowned Bangladeshi chef with over 8 years of experience in cooking traditional Bangladeshi cuisine. She is known for her expertise in using locally sourced spices and ingredients to create delicious and authentic dishes.",
       "experience": "8 years",
       "likes": 280,
@@ -273,9 +267,6 @@
           "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
           "ingredients": [
             "6 pieces of hilsa fish",
-            "1 tablespoon mustard paste",
-            "1 teaspoon turmeric powder",
-            "1 teaspoon red chili powder",
             "1 tablespoon mustard oil",
             "1 onion, sliced",
             "2 green chilies, slit",
@@ -287,23 +278,30 @@
         },
         {
           "name": "Bhuna Khichuri (Spicy rice and lentils)",
-          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "recipe_img":"https://www.linkpicture.com/q/khituri.jpg",
           "ingredients": [
             "1 cup rice",
             "1/2 cup yellow lentils",
             "1 onion, chopped",
-            "1 tablespoon ginger-garlic paste",
             "1 tomato, chopped",
-            "2 green chilies, chopped",
-            "1 teaspoon cumin powder",
-            "1 teaspoon coriander powder",
-            "1/2 teaspoon turmeric powder",
-            "1/2 teaspoon red chili powder",
             "3 tablespoons oil",
             "Salt to taste"
           ],
           "cooking_method": "1. Wash the rice and lentils together and soak for 30 minutes. \n2. Heat oil in a pan and add chopped onion. Fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add chopped tomato and green chilies. Fry until the tomato is soft. \n5. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well. \n6. Add the soaked rice and lentils. Stir well. \n7. Add enough water to cover the rice and lentils. Bring to a boil. \n8. Lower the heat and cover the pan. Cook until the rice and lentils are soft and the water has evaporated. \n9. Serve hot with a side of fried eggplant or potato.",
           "rating": 4.5
+        },
+        {
+          "name": "Chingri Malai Curry (Shrimp in coconut milk curry)",
+          "recipe_img":"https://www.linkpicture.com/q/1_334.jpg",
+          "ingredients": [
+            "1 lb deveined and cleaned",
+            "1 onion, chopped",
+            "1 tablespoon paste",
+            "1/2 cup coconut milk",
+            "1 teaspoon cumin powder"
+          ],
+          "cooking_method": "1. Heat oil in a pan and add the whole spices (bay leaves, cardamom pods, cloves, cinnamon stick). Fry until fragrant. \n2. Add chopped onion and fry until golden brown. \n3. Add ginger-garlic paste and fry for a minute. \n4. Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt.",
+          "rating": 4.0
         }
       ]
     }
